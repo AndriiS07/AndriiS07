@@ -6,7 +6,7 @@ Tech Stack
 - **Languages:** C#, JavaScript, TypeScript, SQL
 - **Backend:** .NET, ASP.NET Core (Web API), Entity Framework Core
 - **Databases & Caching:** PostgreSQL, Microsoft SQL Server, SQLite, Redis
-- **DevOps & Tools:** Git, Docker, Render, Postman
+- **Developer Tools:** Git, Docker, Render, Postman
 
 Featured Projects
 - **MarineTracker** – Real-time vessel movement and AIS telemetry tracking system integrated with Redis caching and external APIs.
